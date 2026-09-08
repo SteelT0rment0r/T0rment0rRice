@@ -1,3 +1,9 @@
+![T0rment0rRice desktop](Pictures/desktop.png)
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b524e67f-a682-4733-a9ab-65fe7304cd81" />
+
+
+
+
 # T0rment0rRice
 
 A ready-to-use Linux rice assembled from existing open-source projects, with custom configuration, integration, wallpapers, and **The Installer**.
