@@ -165,13 +165,29 @@ My contribution to this project is primarily the **assembly, configuration, inte
 
 The installer is intended to turn the collection of components into something that can be deployed with a single command.
 As for the important shortcuts:
+
+
 Mod + D -> App Launcher
+
+
 Mod + R -> Also App Launcher
+
+
 Mod + W -> Wallpaper Switcher
+
+
 Mod + T -> Launch Kitty
+
+
 Mod + Q -> Kill Focused Window
+
+
 Mod + E -> Dolphin File Manager
+
+
 Mod + V -> Float Focused Window
+
+
 Mod + Arrow Keys -> Move Focus (But focus also follows cursor)
 
 ***DISCLAIMER***
