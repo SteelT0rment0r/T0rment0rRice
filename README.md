@@ -1,3 +1,8 @@
+![Uploading image.png…]()
+
+
+
+
 # T0rment0rRice
 
 A ready-to-use Linux rice assembled from existing open-source projects, with custom configuration, integration, wallpapers, and **The Installer**.
