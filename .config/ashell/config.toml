@@ -1,0 +1,49 @@
+[appearance]
+opacity = 1.0
+font_name = "Maple Mono NF"
+
+background_color = "#121318"
+primary_color = "#b2c5ff"
+success_color = "#c0c6dd"
+warning_color = "#5a3d59"
+danger_color = "#ffb4ab"
+text_color = "#e2e2e9"
+
+workspace_colors = [
+    "#b2c5ff",
+    "#c0c6dd"
+]
+
+[appearance.bar]
+surface = "solid"
+
+[modules]
+left = ["Workspaces", "MediaPlayer"]
+center = ["Tempo"]
+right = ["SystemInfo", "Settings", "Tray"]
+
+[workspaces]
+visibility_mode = "All"
+indicator_format = "Name"
+group_by_monitor = false
+
+[media_player]
+max_text_length = 20
+indicator_format = "Text"
+indicator_fields = ["Title"]
+indicator_visualizer = "After"
+menu_visualizer = true
+visualizer_framerate = 30
+
+[system_info]
+indicators = ["Cpu", "Memory", "Temperature"]
+interval = 5
+
+[tempo]
+clock_format = "%R"
+
+[settings]
+battery_format = "IconAndPercentage"
+volume_step = 5
+max_volume = 100
+enable_tooltips = true

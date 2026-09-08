@@ -1,0 +1,10 @@
+{
+    "logo": {
+        "type": "file",
+        "source": "~/.config/fastfetch/mytext.txt",
+        "color": {
+            "1": "#FFFFFF"
+        }
+    }
+}
+

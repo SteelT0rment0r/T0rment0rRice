@@ -1,0 +1,14 @@
+[config.wallpaper]
+command = "true"
+
+[templates.quickshell]
+input_path = "~/.config/matugen/templates/DefaultTheme.qml"
+output_path = "~/.config/quickshell/wallpaper/DefaultTheme.qml"
+
+[templates.ashell]
+input_path = "~/.config/matugen/templates/ashell.toml"
+output_path = "~/.config/ashell/config.toml"
+
+[templates.rmpc]
+input_path = "~/.config/matugen/templates/rmpc.ron"
+output_path = "~/.config/rmpc/theme.ron"

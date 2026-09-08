@@ -1,0 +1,25 @@
+# Secrets / credentials
+*.pem
+*.key
+*.token
+.env
+.env.*
+credentials*
+secrets*
+
+# Runtime / state
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+
+# Application state
+.config/dconf/
+.config/pulse/
+.config/mpd/database
+.config/mpd/state
+.config/mpd/sticker.sql

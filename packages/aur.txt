@@ -1,0 +1,8 @@
+ani-cli
+ashell
+envycontrol
+hyprmod
+maplemono-nf
+nbfc-linux
+peaclock
+python-pywal16
