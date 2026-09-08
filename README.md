@@ -164,6 +164,8 @@ Please refer to each upstream repository for its own licensing and contribution 
 My contribution to this project is primarily the **assembly, configuration, integration, modifications, package definitions, wallpaper selection, and The Installer**.
 
 The installer is intended to turn the collection of components into something that can be deployed with a single command.
+
+
 ***DISCLAIMER***
 You might wanna change the scale in ~/.config/hypr/hyprland.lua because i use 0.7 scale, or you can use hyprmod app which can be installed by typing yay -S hyprmod in your terminal!
 ---
