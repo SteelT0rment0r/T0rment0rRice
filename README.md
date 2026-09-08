@@ -169,6 +169,7 @@ The installer is intended to turn the collection of components into something th
 ***DISCLAIMER***
 
 You might wanna change the scale in ~/.config/hypr/hyprland.lua because I use 0.7 scale, or you can use the Hyprmod app which can be installed by typing yay -S hyprmod in your terminal!
+The keyboard layout is Turkish Q layout, can be changed by editing the input section of ~/.config/hypr/hyprland.lua, for example to get US layout you need to change kb_layout = "tr", to kb_layout = "us",
 ---
 
 ## License
