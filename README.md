@@ -1,6 +1,6 @@
 # T0rment0rRice
 
-A ready-to-use Linux rice assembled from existing open-source projects, with custom configuration, integration, wallpapers, and **The Fuking Installer**.
+A ready-to-use Linux rice assembled from existing open-source projects, with custom configuration, integration, wallpapers, and **The Installer**.
 
 > **I did not create the original components used in this rice. I assembled them, configured them, modified parts of them, and integrated them into one setup.**
 
@@ -17,7 +17,7 @@ It combines:
 * **Matugen** for dynamic theming
 * A collection of wallpapers from **dharmx/walls**
 * Custom configuration and integration
-* **The Fuking Installer** for automated installation
+* **The Installer** for automated installation
 
 The project is intended as a starting point. Feel free to modify, replace, remove, or extend any part of it.
 
@@ -66,9 +66,9 @@ Please refer to the original repository for the wallpaper collection and its att
 
 ---
 
-## The Fuking Installer
+## The Installer
 
-The main piece of original work in this repository is **The Fuking Installer**.
+The main piece of original work in this repository is **The Installer**.
 
 It handles:
 
@@ -161,7 +161,7 @@ Please refer to each upstream repository for its own licensing and contribution 
 
 ### My work
 
-My contribution to this project is primarily the **assembly, configuration, integration, modifications, package definitions, wallpaper selection, and The Fuking Installer**.
+My contribution to this project is primarily the **assembly, configuration, integration, modifications, package definitions, wallpaper selection, and The Installer**.
 
 The installer is intended to turn the collection of components into something that can be deployed with a single command.
 
